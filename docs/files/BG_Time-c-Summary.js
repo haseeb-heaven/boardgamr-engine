@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:BG_Time.c","BG_Time.c");NDSummary.OnSummaryLoaded("File:BG_Time.c",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[14,0,1,"Functions","Functions"],[15,0,0,"BG_TimeDelay","BG_TimeDelay"],[16,0,0,"BG_StartTime","BG_StartTime"],[17,0,0,"BG_StopTime","BG_StopTime"]]);

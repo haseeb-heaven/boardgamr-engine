@@ -1,0 +1,1 @@
+NDMenu.OnSectionLoaded("files.js",[[1,"BG_Board.c"],[1,"BG_Card.c"],[1,"BG_Dice.c"],[1,"BG_Font.c"],[1,"BG_Misc.c"],[1,"BG_Player.c"],[1,"BG_Time.c"]]);
