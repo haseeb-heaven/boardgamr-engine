@@ -55,36 +55,36 @@ _Sequential game board_</br>
 
 Using **BG_FillBoardRow(),BG_FillBoardCol(),BG_FillBoardDiagonals()** methods.
 
-_Game data by row.</br>
-![fill_row](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/fill_row.jpg.jpg?raw=true "")
+_Game data by row_.</br>
+![fill_row](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/fill_row.jpg?raw=true "")
 
-_Game data by column.</br>
-![fill_cols](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/fill_cols.jpg.jpg?raw=true "")
+_Game data by column_.</br>
+![fill_cols](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/fill_cols.jpg?raw=true "")
 
-_Game data by left/rightdiagonals.</br>
+_Game data by left/rightdiagonals_.</br>
 ![fill_left_diag](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/fill_left_diag.jpg?raw=true "")
 ![fill_right_diag](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/fill_right_diag.jpg?raw=true "")
 
 ## Get information about game board : 
 
 Using **BG_GetBoardInfo(),BG_GetPieceInfo()** methods.
-_Get board information.</br>
+_Get board information_.</br>
 ![get_board_info](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/get_board_info.jpg?raw=true "")
 
 # Card Module :
 
 ## Get/draw deck of cards : 
 
-**QUARTER-DECK** Using **BG_DrawDeck() and BG_GetDeck()** methods.</br>
+**QUARTER-DECK** Using **BG_DrawDeck() and BG_DrawDeck()** methods.</br>
 ![quarter_deck](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/quarter_deck.jpg?raw=true "")
 
-**HALF-DECK** Using **BG_GetHalfDeck() and BG_GetDeck()** methods.</br>
+**HALF-DECK** Using **BG_GetHalfDeck() and BG_DrawDeck()** methods.</br>
 ![half_deck](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/half_deck.jpg?raw=true "")
 
-**FULL-DECK** Using **BG_GetFullDeck() and BG_GetDeck()** methods.</br>
+**FULL-DECK** Using **BG_GetFullDeck() and BG_DrawDeck()** methods.</br>
 ![full_deck](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/full_deck.jpg?raw=true "")
 
-**RAND-DECK** Using **BG_GetRandDeck() and BG_GetDeck()** methods.</br>
+**RAND-DECK** Using **BG_GetRandDeck() and BG_DrawDeck()** methods.</br>
 ![rand_deck](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/rand_deck.jpg?raw=true "")
 
 ## Add/Remove/Move/Copy/Shuffle cards : 
@@ -187,12 +187,6 @@ _Get board information.</br>
 
 # BoardGamr-Engine Logs and errors :
 
-## GTConsole Library Error :
-If you tried to access methods of **GT**_Console_ library without using MACRO **_GT_BUILD_CLI_** you will get **undefined reference** error.
-
-![gt_console_error](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/gtconsole_error.jpg?raw=true "")
-
-
 ## Error/Exception Handling :
 
 All the error/exception handling is done by engine itself like if you tried to enter invalid data in board,or adding wrong cards to deck or forgot to import any module from engine etc engine will throw error.So you don't have to check for any error by yourself.
@@ -214,7 +208,7 @@ or if you want to **disable** logs again you can use **BG_DisableLogs()** method
 ![enable_disable_logs](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/resources/enable_disable_logs.jpg?raw=true "")
 
 
-**DOCUMENTATION INFO :** Go to **_docs_** folder and open **_index.html** or click here **[BoardGamr-Docs](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/docs)**
+**DOCUMENTATION INFO :** Go to **_docs_** folder and open **_index.html_** or click here **[BoardGamr-Docs](https://github.com/haseeb-heaven/BoardGamr-Engine/blob/master/docs)**
 
 
 **VERSION INFO :**<br/>
