@@ -213,4 +213,3 @@ or if you want to **disable** logs again you can use **BG_DisableLogs()** method
 
 **VERSION INFO :**<br/>
 BoardGamr-Engine Version : V 1.0  Dated : 17/02/2019.<br/>
-Written and maintained by HaseeB Mir (haseebmir.hm@gmail.com)
