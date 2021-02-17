@@ -9,9 +9,6 @@ It works with all OS **Windows,Mac,Linux** etc because it used only _standard_ h
 **AIM** : The aim of this engine is only to provide the most efficient way of creating **board games** with pure c/c++ **(no _3rd_ party library required)**
 and with portability to any OS **_(Windows,Mac,Linux)._**
 
-## **_Your support is needed to keep this project alive, Feel free to donate._**
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/haseebmir91)
-
 
 **_FEATURES_** : </br>
 1)**Fast and flexible** modules and methods to create **board/player,cards** and more.</br>
