@@ -52,7 +52,7 @@ FEATURES :
 9)Adanced memory efficient design by selecting specific module at compile time.
 10)Portable Game engine works any OS (Windows,Mac,Linux) with pure c/c++ (no 3rd party library required).
 
-Written by Ha5eeB Mir (haseebmir.hm@gmail.com)
+Written by Artic Coder
 */
 
 /*Include all the necessary header files needed.*/
